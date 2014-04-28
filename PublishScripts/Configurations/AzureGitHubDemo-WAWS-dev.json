@@ -1,0 +1,21 @@
+{
+    "environmentSettings": {
+        "webSite": {
+            "name": "shunsaka-GitHubDemo",
+            "location": "Japan East"
+        },
+        "databases": [
+            {
+                "connectionStringName": "DefaultConnection",
+                "databaseName": "shunsaka-GitHubDemo_db",
+                "serverName": "pyvowplxk1",
+                "user": "shunsaka",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": "",
+                "location": "Japan East"
+            }
+        ]
+    }
+}
